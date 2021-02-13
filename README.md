@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miniflint
-- 👀 I’m interested in IT in general
+- 👀 I’m interested in IT and coding
 - 🌱 I’m currently learning AutohotKey - C - C#
 
 <!---
