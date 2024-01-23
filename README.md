@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Miniflint
 - 👀 I’m interested in IT and coding
-- 🌱 I’m currently learning AutohotKey - C - C# - Unity and python
-- If you have any Issues and you need to show them to me, you can come on my discord : https://discord.gg/HSTdEFZC
+- 🌱 Currently learning C, C++, Python, Javascript css and HTML
 
 <!---
 Miniflint/Miniflint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
